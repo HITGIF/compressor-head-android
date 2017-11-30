@@ -1,9 +1,17 @@
 <resources>
-    <string name="app_name">CompressorHead</string>
+
+    <string name="app_name">Compressor Head</string>
     <string name="Format">Format</string>
+    <string name="intro_text">"This is Compressor Head.\nIt's a tool to compress image.\nHit the red button to generate URL."</string>
+
+    <string name="hint_image_url">Image URL</string>
+    <string name="hint_height">Height</string>
+    <string name="hint_width">Width</string>
+
     <string-array name="formats">
         <item>PNG</item>
         <item>JPEG</item>
         <item>WebP</item>
     </string-array>
+
 </resources>

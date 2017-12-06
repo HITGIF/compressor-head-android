@@ -1,0 +1,2 @@
+# compressor-head-android
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e904554ecb774f9188d4458c2b277fc5)](https://www.codacy.com/app/HITGIF/compressor-head-android?utm_source=github.com&utm_medium=referral&utm_content=HITGIF/compressor-head-android&utm_campaign=badger)

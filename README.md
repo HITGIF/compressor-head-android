@@ -43,7 +43,7 @@ $ git clone https://github.com/[YOUR-USERNAME]/compressor-head-android.git
 ##### It is recommanded to use Android Studio:
 1. Download and install [Android Studio](https://developer.android.com/studio/index.html).
 2. You will also need to download the Android SDK from the IDE itself.
-3. Import the **forked** repository into Android Studio by clicking on `files --> Open` and navigate to the directory where you forked the repository.
+3. Import the **cloned** repository into Android Studio by clicking on `files --> Open` and navigate to the directory where you forked the repository.
 
 ##### You can also choose other preferred IDEs:
 - The [Elipse IDE](https://eclipse.org/) and its [setup guide](http://www.instructables.com/id/How-To-Setup-Eclipse-for-Android-App-Development/).
@@ -64,11 +64,15 @@ $ git clone https://github.com/[YOUR-USERNAME]/compressor-head-android.git
 
 **Step 1: Fork this project:**
 
-Go to the top right of the project page and click on "Fork". A clone of this repo will be created on your GitHub account.
+Go to the top right of the project page and click on "Fork". A fork of this repo will be created on your GitHub account.
 
 **Step 2: Code your changes**:
 
-Create a new branch, and create/edit files as per your coding requirements. Ensure that your code is clean and efficient, and avoid redundancies. It is also advised to follow naming conventions as and where specified. Also make sure that your code is your own, and is not closed-source or stolen.
+Create a new branch by:
+```
+git checkout -b YOUR_NEW_BRANCH_NAME
+```
+Then create/edit files as per your coding requirements. Ensure that your code is clean and efficient, and avoid redundancies. It is also advised to follow naming conventions as and where specified. Also make sure that your code is your own, and is not closed-source or stolen.
 
 **Step 3: Commiting and pushing the changes:**
 
